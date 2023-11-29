@@ -1,0 +1,66 @@
+* {
+    box-sizing: border-box;
+}
+
+body,
+html {
+    height: 100%;
+}
+
+body {
+    margin:0;
+}
+
+.wrapper {
+    background-color: darkorchid;
+    min-height: 100%;
+    position: relative;
+}
+
+.art {
+    text-align: center;
+}
+
+.picture {
+    width: 250px;
+    height: 300px;
+    border-radius: 100%;
+}
+
+.card {
+    text-align: center;
+}
+
+.picture2 {
+    width: 600px;
+    height: 450px;
+}
+
+
+.picture3 {
+    width:250px;
+    height: 300px;
+    border-radius: 100%;
+
+}
+
+.card2 {
+    text-align: center;
+}
+
+.card3 {
+    text-align: center;
+}
+
+
+.picture4 {
+    width: 600px;
+    height: 450px;
+}
+.picture5 {
+    width:600px;
+    height: 450px;
+}
+
+
+
